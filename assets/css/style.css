@@ -147,7 +147,7 @@ section {
     font-size: 46px;
     margin-top: 10px;
 }
-.spets p {
+.steps p {
     color: #39a6b2;
     font-size: 23px;
 }
@@ -192,3 +192,29 @@ section {
     font-size: 17px;
     line-height: 1.3;
 }
+/* MEET THE TRAINERS SECTION ENDS */
+
+/* REACH OUT STYLERS START */
+
+.contact {
+    background: #024e76;
+    text-align: center;
+}
+.contact h2 {
+    color:#fce138
+}
+.contact-info iframe {
+    width: 400px;
+    height: 400px;
+}
+.contact-info div {
+    width: 410px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    margin: 30px 0 0 60px;
+    color: white;
+}
+
+
+/* REACH OUT STYLERS END */
