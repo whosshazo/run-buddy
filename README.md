@@ -12,3 +12,5 @@ htts://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by [whos.shazo]
+
+### ©️2019 Run Buddy, Inc 
